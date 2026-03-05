@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Drag Racer's Map of America</title>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div id="topbar">
+
+<h2>Drag Racer's Map of America</h2>
+
+<select id="distanceFilter">
+
+<option value="99999">All Tracks</option>
+<option value="50">Within 50 Miles</option>
+<option value="100">Within 100 Miles</option>
+<option value="250">Within 250 Miles</option>
+<option value="500">Within 500 Miles</option>
+
+</select>
+
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script src="map.js"></script>
+
+</body>
+</html>
