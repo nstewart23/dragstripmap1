@@ -6,5 +6,41 @@
 "lat":38.649,
 "lon":-90.131,
 "url":"https://wwtraceway.com"
+},
+
+{
+"name":"Cordova Dragway",
+"city":"Cordova",
+"state":"IL",
+"lat":41.680,
+"lon":-90.324,
+"url":"https://cordovadragway.com"
+},
+
+{
+"name":"Byron Dragway",
+"city":"Byron",
+"state":"IL",
+"lat":42.126,
+"lon":-89.255,
+"url":"http://www.byrondragway.com"
+},
+
+{
+"name":"Ozark Raceway Park",
+"city":"Rogersville",
+"state":"MO",
+"lat":37.117,
+"lon":-93.067,
+"url":"https://ozarkracewaypark.com"
+},
+
+{
+"name":"Lucas Oil Indianapolis Raceway Park",
+"city":"Brownsburg",
+"state":"IN",
+"lat":39.812,
+"lon":-86.342,
+"url":"https://raceirp.com"
 }
 ]
