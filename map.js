@@ -12,7 +12,7 @@ fetch("tracks.json")
 
 data.forEach(track=>{
 
-var marker=L.marker([track.lat,track.lon]).addTo(map);
+var marker=L.marker([track.lat,track.lng]).addTo(map);
 
 marker.bindPopup(
 "<b>"+track.name+"</b><br>"+
@@ -21,5 +21,6 @@ track.city+", "+track.state+"<br>"+
 );
 
 });
+
 
 });
