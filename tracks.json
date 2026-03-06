@@ -3,44 +3,80 @@
 "name":"World Wide Technology Raceway",
 "city":"Madison",
 "state":"IL",
-"lat":38.649,
-"lon":-90.131,
+"lat":38.6493,
+"lng":-90.1403,
 "url":"https://wwtraceway.com"
 },
-
 {
-"name":"Cordova Dragway",
-"city":"Cordova",
+"name":"I-57 Dragstrip",
+"city":"Benton",
 "state":"IL",
-"lat":41.680,
-"lon":-90.324,
-"url":"https://cordovadragway.com"
+"lat":38.0176,
+"lng":-88.9205,
+"url":"https://i57dragstrip.com"
 },
-
 {
-"name":"Byron Dragway",
-"city":"Byron",
+"name":"Gateway Motorsports Park Kartplex",
+"city":"Madison",
 "state":"IL",
-"lat":42.126,
-"lon":-89.255,
-"url":"http://www.byrondragway.com"
+"lat":38.6480,
+"lng":-90.1410,
+"url":"https://wwtraceway.com"
 },
-
 {
-"name":"Ozark Raceway Park",
-"city":"Rogersville",
-"state":"MO",
-"lat":37.117,
-"lon":-93.067,
-"url":"https://ozarkracewaypark.com"
+"name":"US 131 Motorsports Park",
+"city":"Martin",
+"state":"MI",
+"lat":42.5356,
+"lng":-85.6357,
+"url":"https://us131msp.com"
 },
-
+{
+"name":"Summit Motorsports Park",
+"city":"Norwalk",
+"state":"OH",
+"lat":41.2405,
+"lng":-82.6155,
+"url":"https://summitmotorsportspark.com"
+},
 {
 "name":"Lucas Oil Indianapolis Raceway Park",
 "city":"Brownsburg",
 "state":"IN",
-"lat":39.812,
-"lon":-86.342,
+"lat":39.8129,
+"lng":-86.3417,
 "url":"https://raceirp.com"
+},
+{
+"name":"National Trail Raceway",
+"city":"Hebron",
+"state":"OH",
+"lat":39.9551,
+"lng":-82.4915,
+"url":"https://nationaltrailraceway.com"
+},
+{
+"name":"Cordova Dragway",
+"city":"Cordova",
+"state":"IL",
+"lat":41.6795,
+"lng":-90.3191,
+"url":"https://cordova.dragway"
+},
+{
+"name":"Great Lakes Dragaway",
+"city":"Union Grove",
+"state":"WI",
+"lat":42.6845,
+"lng":-88.0501,
+"url":"https://greatlakesdragaway.com"
+},
+{
+"name":"Byron Dragway",
+"city":"Byron",
+"state":"IL",
+"lat":42.1263,
+"lng":-89.2551,
+"url":"https://byrondragway.com"
 }
 ]
