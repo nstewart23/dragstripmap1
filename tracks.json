@@ -1,83 +1,36 @@
 [
-{
-"name":"World Wide Technology Raceway",
-"city":"Madison",
-"state":"IL",
-"lat":38.6493,
-"lng":-90.1403,
-"url":"https://wwtraceway.com"
-},
-{
-"name":"I-57 Dragstrip",
-"city":"Benton",
-"state":"IL",
-"lat":38.0176,
-"lng":-88.9205,
-"url":"https://www.facebook.com/I57DRAGSTRIP/"
-},
-{
-"name":"Gateway Motorsports Park Kartplex",
-"city":"Madison",
-"state":"IL",
-"lat":38.6480,
-"lng":-90.1410,
-"url":"https://wwtraceway.com"
-},
-{
-"name":"US 131 Motorsports Park",
-"city":"Martin",
-"state":"MI",
-"lat":42.5356,
-"lng":-85.6357,
-"url":"https://us131msp.com"
-},
-{
-"name":"Summit Motorsports Park",
-"city":"Norwalk",
-"state":"OH",
-"lat":41.2405,
-"lng":-82.6155,
-"url":"https://summitmotorsportspark.com"
-},
-{
-"name":"Lucas Oil Indianapolis Raceway Park",
-"city":"Brownsburg",
-"state":"IN",
-"lat":39.8129,
-"lng":-86.3417,
-"url":"https://raceirp.com"
-},
-{
-"name":"National Trail Raceway",
-"city":"Hebron",
-"state":"OH",
-"lat":39.9551,
-"lng":-82.4915,
-"url":"https://nationaltrailraceway.com"
-},
-{
-"name":"Cordova Dragway",
-"city":"Cordova",
-"state":"IL",
-"lat":41.6795,
-"lng":-90.3191,
-"url":"https://cordova.dragway"
-},
-{
-"name":"Great Lakes Dragaway",
-"city":"Union Grove",
-"state":"WI",
-"lat":42.6845,
-"lng":-88.0501,
-"url":"https://greatlakesdragaway.com"
-},
-{
-"name":"Byron Dragway",
-"city":"Byron",
-"state":"IL",
-"lat":42.1263,
-"lng":-89.2551,
-"url":"https://byrondragway.com"
-}
+{"name":"World Wide Technology Raceway","city":"Madison","state":"IL","lat":38.6493,"lng":-90.1403,"url":"https://wwtraceway.com"},
+{"name":"Byron Dragway","city":"Byron","state":"IL","lat":42.1263,"lng":-89.2551,"url":"https://byrondragway.com"},
+{"name":"Cordova Dragway","city":"Cordova","state":"IL","lat":41.6795,"lng":-90.3191,"url":"https://cordovadragway.com"},
+{"name":"I-57 Dragstrip","city":"Benton","state":"IL","lat":38.0176,"lng":-88.9205,"url":"https://i57dragstrip.com"},
+{"name":"US 131 Motorsports Park","city":"Martin","state":"MI","lat":42.5356,"lng":-85.6357,"url":"https://us131msp.com"},
+{"name":"Summit Motorsports Park","city":"Norwalk","state":"OH","lat":41.2405,"lng":-82.6155,"url":"https://summitmotorsportspark.com"},
+{"name":"National Trail Raceway","city":"Hebron","state":"OH","lat":39.9551,"lng":-82.4915,"url":"https://nationaltrailraceway.com"},
+{"name":"Edgewater Sports Park","city":"Cleves","state":"OH","lat":39.2037,"lng":-84.7496,"url":"https://edgewaterrace.com"},
+{"name":"Lucas Oil Indianapolis Raceway Park","city":"Brownsburg","state":"IN","lat":39.8129,"lng":-86.3417,"url":"https://raceirp.com"},
+{"name":"Great Lakes Dragaway","city":"Union Grove","state":"WI","lat":42.6845,"lng":-88.0501,"url":"https://greatlakesdragaway.com"},
+{"name":"Rock Falls Raceway","city":"Eau Claire","state":"WI","lat":44.7743,"lng":-91.4580,"url":"https://rockfallsraceway.com"},
+{"name":"Brainerd International Raceway","city":"Brainerd","state":"MN","lat":46.3984,"lng":-94.1398,"url":"https://brainerdraceway.com"},
+{"name":"Bandimere Speedway","city":"Morrison","state":"CO","lat":39.6513,"lng":-105.1913,"url":"https://bandimere.com"},
+{"name":"Thunder Valley Raceway Park","city":"Noble","state":"OK","lat":35.1486,"lng":-97.3947,"url":"https://thundervalleyracewaypark.com"},
+{"name":"Texas Motorplex","city":"Ennis","state":"TX","lat":32.3290,"lng":-96.6397,"url":"https://texasmotorplex.com"},
+{"name":"Royal Purple Raceway","city":"Baytown","state":"TX","lat":29.7781,"lng":-94.9717,"url":"https://houstonraceway.com"},
+{"name":"Alamo City Motorplex","city":"Marion","state":"TX","lat":29.5684,"lng":-98.1420,"url":"https://alamocitymotorplex.com"},
+{"name":"Tulsa Raceway Park","city":"Tulsa","state":"OK","lat":36.2137,"lng":-95.8305,"url":"https://tulsaracewaypark.com"},
+{"name":"Gateway Dragway","city":"Wentzville","state":"MO","lat":38.8032,"lng":-90.8876,"url":"https://gatewaydragway.com"},
+{"name":"Ozark Raceway Park","city":"Rogersville","state":"MO","lat":37.1249,"lng":-93.0378,"url":"https://ozarkracewaypark.com"},
+{"name":"Mo-Kan Dragway","city":"Asbury","state":"MO","lat":37.2956,"lng":-94.5997,"url":"https://mokanraceway.com"},
+{"name":"US 36 Raceway Dragstrip","city":"Osborn","state":"MO","lat":39.8931,"lng":-94.3741,"url":"https://us36raceway.com"},
+{"name":"Kansas International Dragway","city":"Wichita","state":"KS","lat":37.7093,"lng":-97.2176,"url":"https://racekidr.com"},
+{"name":"Heartland Motorsports Park","city":"Topeka","state":"KS","lat":38.9395,"lng":-95.6777,"url":"https://heartlandmotorsports.us"},
+{"name":"Tri-State Raceway","city":"Earlville","state":"IA","lat":42.4932,"lng":-91.2961,"url":"https://tristateraceway.com"},
+{"name":"Eddyville Raceway Park","city":"Oskaloosa","state":"IA","lat":41.3073,"lng":-92.6391,"url":"https://eddyvilleraceway.com"},
+{"name":"Great Bend Dragway","city":"Great Bend","state":"KS","lat":38.3447,"lng":-98.8134,"url":"https://srcaraceway.com"},
+{"name":"Pacific Raceways","city":"Kent","state":"WA","lat":47.3258,"lng":-122.2430,"url":"https://pacificraceways.com"},
+{"name":"Woodburn Dragstrip","city":"Woodburn","state":"OR","lat":45.1471,"lng":-122.8540,"url":"https://woodburndragstrip.com"},
+{"name":"Mission Raceway Park","city":"Mission","state":"BC","lat":49.1462,"lng":-122.3026,"url":"https://missionraceway.com"},
+{"name":"Castrol Raceway","city":"Edmonton","state":"AB","lat":53.3094,"lng":-113.5667,"url":"https://castrolraceway.com"},
+{"name":"Toronto Motorsports Park","city":"Cayuga","state":"ON","lat":42.9492,"lng":-79.8650,"url":"https://torontomotorsportspark.com"},
+{"name":"Grand Bend Motorplex","city":"Grand Bend","state":"ON","lat":43.3162,"lng":-81.7486,"url":"https://grandbendmotorplex.com"},
+{"name":"Saskatoon Dragway","city":"Saskatoon","state":"SK","lat":52.1579,"lng":-106.6702,"url":"https://saskatoondragway.com"}
 ]
-
