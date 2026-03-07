@@ -2,7 +2,7 @@
 {"name":"World Wide Technology Raceway","city":"Madison","state":"IL","lat":38.6493,"lng":-90.1403,"url":"https://wwtraceway.com"},
 {"name":"Byron Dragway","city":"Byron","state":"IL","lat":42.1263,"lng":-89.2551,"url":"https://byrondragway.com"},
 {"name":"Cordova Dragway","city":"Cordova","state":"IL","lat":41.6795,"lng":-90.3191,"url":"https://cordovadragway.com"},
-{"name":"I-57 Dragstrip","city":"Benton","state":"IL","lat":38.0176,"lng":-88.9205,"url":"https://i57dragstrip.com"},
+{"name":"I-57 Dragstrip","city":"Benton","state":"IL","lat":38.0176,"lng":-88.9205,"url":"https://www.facebook.com/I57DRAGSTRIP/"},
 {"name":"US 131 Motorsports Park","city":"Martin","state":"MI","lat":42.5356,"lng":-85.6357,"url":"https://us131msp.com"},
 {"name":"Summit Motorsports Park","city":"Norwalk","state":"OH","lat":41.2405,"lng":-82.6155,"url":"https://summitmotorsportspark.com"},
 {"name":"National Trail Raceway","city":"Hebron","state":"OH","lat":39.9551,"lng":-82.4915,"url":"https://nationaltrailraceway.com"},
@@ -34,3 +34,4 @@
 {"name":"Grand Bend Motorplex","city":"Grand Bend","state":"ON","lat":43.3162,"lng":-81.7486,"url":"https://grandbendmotorplex.com"},
 {"name":"Saskatoon Dragway","city":"Saskatoon","state":"SK","lat":52.1579,"lng":-106.6702,"url":"https://saskatoondragway.com"}
 ]
+
