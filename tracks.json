@@ -17,7 +17,6 @@
 {"name":"Royal Purple Raceway","city":"Baytown","state":"TX","lat":29.7781,"lng":-94.9717,"url":"https://houstonraceway.com"},
 {"name":"Alamo City Motorplex","city":"Marion","state":"TX","lat":29.5684,"lng":-98.1420,"url":"https://alamocitymotorplex.com"},
 {"name":"Tulsa Raceway Park","city":"Tulsa","state":"OK","lat":36.2137,"lng":-95.8305,"url":"https://tulsaracewaypark.com"},
-{"name":"Gateway Dragway","city":"Wentzville","state":"MO","lat":38.8032,"lng":-90.8876,"url":"https://gatewaydragway.com"},
 {"name":"Ozark Raceway Park","city":"Rogersville","state":"MO","lat":37.1249,"lng":-93.0378,"url":"https://ozarkracewaypark.com"},
 {"name":"Mo-Kan Dragway","city":"Asbury","state":"MO","lat":37.2956,"lng":-94.5997,"url":"https://mokanraceway.com"},
 {"name":"US 36 Raceway Dragstrip","city":"Osborn","state":"MO","lat":39.8931,"lng":-94.3741,"url":"https://us36raceway.com"},
@@ -34,4 +33,5 @@
 {"name":"Grand Bend Motorplex","city":"Grand Bend","state":"ON","lat":43.3162,"lng":-81.7486,"url":"https://grandbendmotorplex.com"},
 {"name":"Saskatoon Dragway","city":"Saskatoon","state":"SK","lat":52.1579,"lng":-106.6702,"url":"https://saskatoondragway.com"}
 ]
+
 
